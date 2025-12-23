@@ -1,1 +1,2 @@
-# BuildingLegacy
+# Building Legacy
+Building Legacy ua a technological system designed to improve the viability and scalability of reuse practices for building components and materials through the integration of Industry 4.0 technologies. In particular, the system combines the use of Building Information Modeling (BIM), Material passports, and data analytics to assess the condition, environmental impact, and reuse potential of materials, while functioning as a collaborative marketplace that connects stakeholders.
