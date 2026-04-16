@@ -216,7 +216,7 @@ A formal citation will be provided upon publication of the associated article.
 
 ## Acknowledgements
 
-The research reported in this article has been conducted in the Building Legacy project, which has received funding from the Ministerio de Industria, Turismo: 2024 Call for Proposals under the Recovery, Transformation and Resilience Plan, under grant agreement no AEI-010500-2024-19. The authors would like to thank the Recursos Urbans (URRU) for its assistance in reviewing the reusable component data sheets elaborated in this research. The authors also want to thank Sonia Monclús for her intensive work in coordinating, managing and completing this research project.
+The research reported in this article has been conducted in the Building Legacy project, which has received funding from the Ministerio de Industria, Turismo: 2024 Call for Proposals under the Recovery, Transformation and Resilience Plan, under grant agreement no AEI-010500-2024-19.
 
 ---
 
@@ -225,7 +225,7 @@ The research reported in this article has been conducted in the Building Legacy 
 For questions or collaborations, please contact:
 
 * Gonçal Costa (goncal.costa@salle.url.edu), ARC-HER group
-* La Salle Campus Barcelona – Universidad Ramon Llull
+* La Salle Campus Barcelona – Ramon Llull University
 
 ---
 
