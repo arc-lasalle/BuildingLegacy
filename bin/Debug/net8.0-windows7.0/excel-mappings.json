@@ -1,0 +1,77 @@
+﻿[
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Nombre del producto",    
+    "CellAddress": "B4"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Marca o Fabricante",    
+    "CellAddress": "B5"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Nombre del modelo de producto o referencia",    
+    "CellAddress": "B6"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Ubicación actual del edificio (dirección física)",
+    "CellAddress": "B7"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Medidas del componente",    
+    "CellAddress": "B8"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Color del componente",    
+    "CellAddress": "B9"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Acabado del componente",    
+    "CellAddress": "B10"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Material principal",    
+    "CellAddress": "B11"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Lista de materiales del componente",   
+    "CellAddress": "B12"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Superficie o volumen del material",    
+    "CellAddress": "B13"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Peso aproximado",    
+    "CellAddress": "B14"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Transmitancia térmica componente",    
+    "CellAddress": "B15"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Conductividad térmica materiales",    
+    "CellAddress": "B16"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Densidad materiales",    
+    "CellAddress": "B17"
+  },
+  {
+    "ComponentType": "Puertas cortafuegos",
+    "DataName": "Número de instancias",    
+    "CellAddress": "B18"
+  }
+]
