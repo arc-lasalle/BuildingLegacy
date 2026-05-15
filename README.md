@@ -214,6 +214,32 @@ A formal citation will be provided upon publication of the associated article.
 
 ---
 
+## Authors
+
+- **Markel Cormenzana<sup>1<sup>**
+- **Gonçal Costa<sup>2<sup>** 
+- **Adirane Calvo<sup>2<sup>** 
+- **Álvaro Sicilia<sup>2<sup>** 
+- **Pau Campos<sup>3<sup>** 
+- **Roc Jansà<sup>3<sup>** 
+- **Daniel Sanchez<sup>4<sup>** 
+- **Albert Mestre<sup>5<sup>** 
+- **Alejandro Cifuentes<sup>5<sup>** 
+
+1 HOLON, Coopolis, BLOC4 Can Batlló, Carrer Constitució, 19, Barcelona 08014 Catalonia, Spain\
+2 Human-Environment Research (HER), Department of Architecture, La Salle, Universitat Ramon Llull, Carrer Sant Joan de La Salle 42, Barcelona 08022 Catalonia, Spain\
+3 Inèdit Innovació, SL, Carrer Diputació 37-39, passatge, local 6b, Barcelona 08015 Catalonia, Spain\
+4 COMSA SAU, Department of R&D, Carrer de Viriat 47, Barcelona 08014 Catalonia, Spain\
+5 INTEMIC, Carrer de Josep Valls, 5, Sant Cugat del Vallès 08195 Catalonia, Spain
+
+## Project coordination / Clúster Manager
+
+- **Sonia Monclús<sup>1<sup>**
+
+1 Barcelona Creativity & Design Foundation (BCD)
+
+---
+
 ## Acknowledgements
 
 The research reported in this article has been conducted in the Building Legacy project, which has received funding from the Ministerio de Industria, Turismo: 2024 Call for Proposals under the Recovery, Transformation and Resilience Plan, under grant agreement no AEI-010500-2024-19.
