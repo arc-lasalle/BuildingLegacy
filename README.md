@@ -206,6 +206,10 @@ This DOI refers to the specific version of the research materials associated wit
 The complete and actively maintained Building Legacy repository, including the Revit Add-in source code and related documentation, remains available through GitHub:
 
 https://github.com/arc-lasalle/BuildingLegacy
+
+All versions of the archived research materials:
+https://doi.org/10.5281/zenodo.22029992
+
 ---
 
 ## Authors
