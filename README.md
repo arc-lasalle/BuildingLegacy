@@ -195,10 +195,17 @@ This repository includes research materials and software:
 
 ## Citation
 
-A persistent citation and DOI for the research materials associated with the scientific article will be provided through Zenodo.
+The research materials associated with the scientific study are archived in Zenodo:
 
-The GitHub repository remains the actively maintained repository for the Building Legacy research materials and software.
+**Building Legacy: Research Materials for the Derivation and Operationalisation of a Reusable Component Data Model. Version 1.0.0.**
 
+DOI: https://doi.org/10.5281/zenodo.22029993
+
+This DOI refers to the specific version of the research materials associated with the study.
+
+The complete and actively maintained Building Legacy repository, including the Revit Add-in source code and related documentation, remains available through GitHub:
+
+https://github.com/arc-lasalle/BuildingLegacy
 ---
 
 ## Authors
