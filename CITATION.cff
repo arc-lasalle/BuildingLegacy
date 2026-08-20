@@ -1,7 +1,68 @@
 cff-version: 1.2.0
-title: "Building Legacy Repository"
+
+message: "If you use the Building Legacy research materials or software, please cite this repository using the metadata provided in this file."
+
+title: "Building Legacy: Research Materials and Software"
+
+type: software
+
+version: 1.0.0
+
 authors:
-  - family-names: Costa
-    given-names: Gonçal
-date-released: 2026
-version: 1.0
+  - family-names: "Cormenzana"
+    given-names: "Markel"
+    affiliation: "HOLON"
+
+  - family-names: "Costa"
+    given-names: "Gonçal"
+    affiliation: "Human-Environment Research (HER), La Salle, Universitat Ramon Llull"
+
+  - family-names: "Calvo"
+    given-names: "Adirane"
+    affiliation: "Human-Environment Research (HER), La Salle, Universitat Ramon Llull"
+
+  - family-names: "Sicilia"
+    given-names: "Álvaro"
+    affiliation: "Human-Environment Research (HER), La Salle, Universitat Ramon Llull"
+
+  - family-names: "Campos"
+    given-names: "Pau"
+    affiliation: "Inèdit Innovació, SL"
+
+  - family-names: "Jansà"
+    given-names: "Roc"
+    affiliation: "Inèdit Innovació, SL"
+
+  - family-names: "Sanchez"
+    given-names: "Daniel"
+    affiliation: "COMSA SAU"
+
+  - family-names: "Mestre"
+    given-names: "Albert"
+    affiliation: "INTEMIC"
+
+  - family-names: "Cifuentes"
+    given-names: "Alejandro"
+    affiliation: "INTEMIC"
+
+abstract: >-
+  Research materials and software developed within the Building Legacy project
+  to support the documentation, evaluation, and reuse of building components.
+  The repository includes materials supporting the derivation and
+  operationalisation of a reusable component data model, component data sheets,
+  a representative individual component data sheet template, and the source
+  code of a Revit Add-in for semi-automated acquisition of component
+  information from BIM models.
+
+keywords:
+  - "building component reuse"
+  - "circular construction"
+  - "reusable component data model"
+  - "BIM"
+  - "building information modelling"
+  - "Revit"
+  - "material passports"
+
+repository-code: "https://github.com/arc-lasalle/BuildingLegacy"
+
+url: "https://github.com/arc-lasalle/BuildingLegacy"
